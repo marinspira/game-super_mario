@@ -1,5 +1,6 @@
 {
   "name": "game-mario",
+  "homepage": "https://marinspira.github.io/game-super_mario/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
